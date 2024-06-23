@@ -1,0 +1,41 @@
+body {
+	background-color: hsl(233, 47%, 7%);
+}
+
+.container {
+	width: 375px;
+	background-color: hsl(244, 38%, 16%);
+	border-radius: 10px;
+	overflow: hidden;
+	margin: 30px auto;
+}
+
+img {
+	width: 100%;
+}
+
+.container-text{
+	padding: 20px;
+}
+
+h1, h2{
+	font-family: 'Lexend Deca', sans-serif;
+	text-align: center;
+	color:white;
+	font-size: 22px;
+}
+
+.title-color {
+	color: hsl(277, 64%, 61%);
+}
+
+.parrafo {
+	color: hsla(0, 0%, 100%, 0.6);
+	font-family: 'Inter', sans-serif;
+	text-align: center;
+	font-size: 10px;
+}
+
+h2{
+	font-size: 15px;
+}
